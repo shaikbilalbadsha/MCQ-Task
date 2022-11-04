@@ -1,0 +1,74 @@
+{
+  "questions": [
+    {
+      "QuestionNo": "1",
+      "category": "Geography",
+      "Question": "The higher the wind speed and the longer the fetch or distance of open water across which the wind blows and waves travel, the ____ waves and the ____ energy they process.",
+      "quesType": "mrq",
+      "Answer": "1,4",
+      "options": ["A. larger", "B. smaller", "C. less", "D. more"],
+      "reinforcement": "Larger waves when travel long distances in open waters collect the moisture and become more energetic and hence develop large waves with more energy.",
+      "context": "By considering oceanic wave energy in energy crisis, it depends on the height and the speed of waves ! When it comes to producing electricity, it should be a powerful thing.With the high speed wind more waves and with the longer distance of open water larger waves are possible."
+    },
+    {
+      "QuestionNo": "2",
+      "category": "Geography",
+      "Question": "The great Victoria Desert is located in?",
+      "quesType": "mcq",
+      "Answer": "3",
+      "options": [
+        "A. Canada",
+        "B. West Africa",
+        "C. Australia",
+        "D. North America"
+      ],
+      "reinforcement": "The Great Victoria is the largest desert in Australia.",
+      "context": "The Great Victoria is the largest desert in Australia and consists of many small sandhills, grassland plains, areas with a closely packed surface of pebbles (called desert pavement or gibber plains) and salt lakes. It is over 700 kilometres (430 mi) wide (from west to east) and covers an area of 424,400 square kilometres (163,900 sq mi) from the Eastern Goldfields region of Western Australia to the Gawler Ranges in South Australia."
+    },
+    {
+      "QuestionNo": "3",
+      "category": "Geography",
+      "Question": "The light of distant stars is affected by",
+      "quesType": "mrq",
+      "Answer": "1,2",
+      "options": [
+        "A. the earth's atmosphere",
+        "B. interstellar dust",
+        "C. moon",
+        "D. None of the above"
+      ],
+      "reinforcement": "Interstellar dust can absorb light from distant stars while the earth's atmosphere can refract light as it passes through.",
+      "context": "Interstellar dust can absorb light from distant stars while the earth's atmosphere can refract light as it passes through.Because as they are far away from us so light get attenuated or absorbed in between the path."
+    },
+    {
+      "QuestionNo": "4",
+      "category": "Geography",
+      "Question": "The groundwater can become confined between two impermeable layers. This type of enclosed water is called",
+      "quesType": "mcq",
+      "Answer": "1",
+      "options": [
+        "A. artesian",
+        "B. artesian well",
+        "C. unconfined groundwater",
+        "D. confined groundwater"
+      ],
+      "reinforcement": "Artesian is of water rising to the surface under its own hydrostatic pressure",
+      "context": "An artesian aquifer is a confined aquifer containing groundwater under positive pressure. This causes the water level in a well to rise to a point where hydrostatic equilibrium has been reached. A well drilled into such an aquifer is called an artesian well."
+    },
+    {
+      "QuestionNo": "5",
+      "category": "Geography",
+      "Question": "The Harmattan is",
+      "quesType": "mrq",
+      "Answer": "1,2,3",
+      "options": [
+        "A. cool, extremely dry wind that forms over the Sahara and blows westward or south-westward to the African coast",
+        "B. wind that blows during the dry season from December to February",
+        "C. tertiary wind that carry great quantities of fine dust from the Sahara",
+        "D. None of the above"
+      ],
+      "reinforcement": "The Harmattan blows from the east to the west and it is cold and it carry sand particles.",
+      "context": "The Harmattan is a dry and dusty West African trade wind. It blows south from the Sahara into the Gulf of Guinea between the end of November and the middle of March (winter). The temperatures can be as low as 3 degrees Celsius."
+    }
+  ]
+}
